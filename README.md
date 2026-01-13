@@ -1,1 +1,1 @@
-# portfolio
+A responsive and informative Organ Donation Awareness Website developed using HTML, CSS, and JavaScript. This project aims to educate users about organ donation, its importance, eligibility criteria, and the life-saving impact it creates, while providing an easy-to-use and visually engaging interface.
